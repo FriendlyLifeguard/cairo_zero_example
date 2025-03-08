@@ -14,7 +14,7 @@ After, clone the repo and run the following command to compile the contract.
 cairo-compile test_with_builtin.cairo --output test_compiled_builtin.json 
 ```
 
-And with the output json file,run the following command to visualize the memory layout.
+And with the output json file, run the following command to visualize the memory layout.
 
 ```bash
 cairo-run \                                                                  
